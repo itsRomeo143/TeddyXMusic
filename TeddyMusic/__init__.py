@@ -11,19 +11,19 @@ bot = Client(
     bot_token=BOT_TOKEN,
 )
 
-Nirjon = Client(
+Romeo = Client(
     api_id=API_ID,
     api_hash=API_HASH,
     session_name=SESSION_NAME,
 )
 
 user = PyTgCalls(
-    Nirjon,
+    Romeo,
     cache_duration=100,
     overload_quiet_mode=True,
 )
 
-call_py = PyTgCalls(Nirjon, overload_quiet_mode=True)
+call_py = PyTgCalls(Romeo, overload_quiet_mode=True)
 
 OWNER_NAME = "Romeo"
 F_OWNER = OWNER_ID[0]
@@ -35,6 +35,6 @@ with Client("TeddyMusic", API_ID, API_HASH, bot_token=BOT_TOKEN) as app:
     BOT_USERNAME = x.username
     BOT_MENTION = x.mention
     BOT_DC_ID = x.dc_id
-with Nirjon as ass:
+with Romeo as ass:
     getass = ass.get_me()
     ASSISTANT_USERNAME = getass.username
