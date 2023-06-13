@@ -77,7 +77,7 @@ v<h2 align="center">
 
 : ➻
 
-➥ [𝐌𝐑 𝐑𝐎𝐌𝐄𝐎] × <a href="https://github.com/NirjonX69/TeddyXMusic" alt="itsRomeo143"> <img src="https://img.shields.io/badge/itsRomeo143-90302f?logo=github" /></a>  
+➥ [𝐌𝐑 𝐑𝐎𝐌𝐄𝐎] × <a href="https://github.com/itsRomeo143/TeddyXMusic" alt="itsRomeo143"> <img src="https://img.shields.io/badge/itsRomeo143-90302f?logo=github" /></a>  
 
 
 - **ᴛʜᴀɴᴋꜱ ᴛᴏ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/itsRomeo143/TeddyXMusic/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ɴɪʙɪ ✘ ᴍᴜsɪᴄ 🖤**
